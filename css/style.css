@@ -1,0 +1,93 @@
+.container {
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+.header {
+	float: left;
+	width: 1200px;
+}
+
+.header img {
+	margin: 20px;
+	width: 95%;
+}
+
+.sidebarleft {
+	float: left;
+	width: 300px;
+	color: #0066ff;
+}
+
+.sidebarleft .songstitle {
+	margin-left: 50px;
+}
+
+.content {
+	float: left;
+	width: 600px;
+}
+
+.content p {
+	float: right;
+	clear: both;
+}
+
+.content .lefttext {
+	float: left;
+	width: 460px;
+}
+
+.content .rightimg {
+	float: left;
+	width: 120px;
+	margin-left: 20px;
+}
+
+.content .leftimg {
+	float: left;
+	width: 160px;
+}
+
+.content .righttext {
+	float: left;
+	width: 420px;
+	margin-left: 20px
+}
+
+.sidebarright {
+	float: left;
+	width: 300px;
+}
+
+.sidebarright img{
+	float: left;
+	width: 150px;
+	height: 150px;
+	margin-left: 80px;
+	margin-top: 20px;
+}
+
+.footer {
+	float: left;
+	width: 1200px;
+}
+
+.footer {
+	float: left;
+	width: 1200px;
+	margin-bottom: 50px;
+	color: gray;
+}
+
+.footer .footerleft{
+	float: left;
+	margin-left: 100px;
+}
+
+.footer .footerright{
+	float: right;
+	margin-right: 100px;
+}
